@@ -580,7 +580,7 @@ Rectangle
            Text
            {
                id: text4
-               text: qsTr("Kontrola nad demonicznymi filtrami")
+               text: qsTr("Kontrola nad filtrami")
                font.pointSize: 13
            }
 
