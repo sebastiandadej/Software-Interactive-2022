@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wygladOkna.qml</file>
+        <file>abc.png</file>
+    </qresource>
+    <qresource prefix="/Seba"/>
+</RCC>
